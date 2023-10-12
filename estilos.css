@@ -1,0 +1,19 @@
+* body {
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align:center;
+}
+
+em strong {
+    color: red
+}
+
+#missao{
+    font-size: 20px;
+}
